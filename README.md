@@ -1,12 +1,16 @@
 # Meta-Transformer-RGB-Depth-Meta-Detection-RGB
 
+
 <img width="949" height="474" alt="image" src="https://github.com/user-attachments/assets/04bad6fb-44df-49eb-8167-8f316d370f04" />
+
 
 
 
 Meta-Transformer RGB-Depth Meta-Detection is a multimodal object-detection framework that leverages RGB images, depth maps, and meta-learning principles to achieve robust detection under complex conditions, such as heavy occlusion, illumination changes, and domain shifts.
 
+
 Contents
+
 
 •	A large collection of annotated images (and optionally video frames) covering diverse scenarios (indoor, outdoor, day/night, varying illumination and occlusion)
 
@@ -36,6 +40,7 @@ Key Features
 •	Diverse scenarios: Captured across varying lighting, occlusion, viewpoint, and sensor configurations to enhance generalization.
 
 •	Aligned annotations: When multiple modalities exist for a scene, annotations are cross-registered so that the same object is tracked across the modalities.
+
 
 
 Baseline & Evaluation
@@ -81,6 +86,8 @@ If you use the M³D dataset in your work, please cite:
   booktitle = {Proceedings of …}
 }
 
+
+
 Contributing & Support
 
 We welcome contributions: additional modality-captures, annotation corrections, new scenarios.
@@ -88,6 +95,7 @@ We welcome contributions: additional modality-captures, annotation corrections, 
 Please open issues or pull requests to the repository: [insert repo link].
 
 For questions or support, contact: r1602ewa@hotmail.com
+
 
 
 
