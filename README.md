@@ -1,7 +1,14 @@
 # Meta-Transformer-RGB-Depth-Meta-Detection-RGB
 
 
+
+
 <img width="949" height="474" alt="image" src="https://github.com/user-attachments/assets/04bad6fb-44df-49eb-8167-8f316d370f04" />
+
+
+
+
+
 
 
 
@@ -57,7 +64,13 @@ o	Multimodal: Detector uses two or more modalities (e.g., RGB + IR, RGB + Depth 
 
 <img width="705" height="201" alt="image" src="https://github.com/user-attachments/assets/2c2d542d-b4cf-4c2d-be6f-3b892771b1f9" />
 
+
+
+
 Potential Applications
+
+
+
 
 •	Autonomous driving, multisensor surveillance, robotics (where multimodal sensing is available)
 
@@ -69,7 +82,14 @@ Potential Applications
 
 •	Multi-modal fusion research: early fusion, mid fusion, late fusion, attention across modalities
 
+
+
+
+
 Licensing & Citation
+
+
+
 
 This dataset is released under the [insert license] license.
 
@@ -88,13 +108,18 @@ If you use the M³D dataset in your work, please cite:
 
 
 
+
+
+
 Contributing & Support
+
 
 We welcome contributions: additional modality-captures, annotation corrections, new scenarios.
 
 Please open issues or pull requests to the repository: [insert repo link].
 
 For questions or support, contact: r1602ewa@hotmail.com
+
 
 
 
